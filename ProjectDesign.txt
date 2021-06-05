@@ -1,0 +1,16 @@
+1. Automation
+- Each unit to have a micro
+- Each unit connects to a hub
+	+ Consider adding a data processing module
+2. What the base kit needs
+3. Micro controller
+4. Box size
+5. Project management
+- Deadlines
+- Gantt charts
+- Trello
+- File sharing
+	+ Discord
+	+ Github
+	+ Teams
+	+ Onedrive
