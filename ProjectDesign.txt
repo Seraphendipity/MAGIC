@@ -9,6 +9,7 @@
 - Deadlines
 - Gantt charts
 - Trello
+- SRS Documentation
 - File sharing
 	+ Discord
 	+ Github
