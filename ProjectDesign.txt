@@ -14,4 +14,4 @@
 	+ Discord
 	+ Github
 	+ Teams
-	+ Onedrive
+	+ One Drive
